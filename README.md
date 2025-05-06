@@ -43,3 +43,7 @@ The generate_summary() function sorts the sentences based on their PageRank scor
 Applications and Significance
 This method of summarization is unsupervised, meaning it does not require any training data or labeled examples. It can be used on any textual data, making it highly versatile and effective. It's especially helpful in areas like content curation, document indexing, and information retrieval. The implementation is a practical example of how NLP and graph theory can be combined to extract meaningful insights from raw text. It demonstrates the use of sentence tokenization, word embeddings (through simple frequency vectors), and graph-based ranking to solve a real-world problem in an elegant and interpretable way.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/369bc1af-5a8b-4bde-975a-1bf1107fbe1d)
+
